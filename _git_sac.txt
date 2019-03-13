@@ -1,1 +1,10 @@
-first file
+first file...
+
+contains the commands - 
+
+git status
+
+git add 
+
+git commit 
+
