@@ -1,0 +1,13 @@
+first git branch file 
+
+added using the git branch command.
+
+and switched to the branch using the 
+
+git checkout branch command.
+
+e.g.
+
+git branch firstbranch
+
+git checkout firstbranch
