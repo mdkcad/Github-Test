@@ -11,3 +11,5 @@ e.g.
 git branch firstbranch
 
 git checkout firstbranch
+
+Also , a modification of the master branch was done and a merge was made to this note.
